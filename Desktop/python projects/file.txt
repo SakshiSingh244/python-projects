@@ -1,0 +1,5 @@
+google | hey@123
+gmail | bye@123
+simpl | good@123
+college | great@123
+google | yesyes
